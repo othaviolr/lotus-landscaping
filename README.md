@@ -195,3 +195,10 @@ Este projeto está sob a licença [MIT](LICENSE).
 Desenvolvido com ❤️ por **Othávio**
 
 - 🌐 Website: [netunotech.com](https://netunotech.com)
+
+- <img width="1905" height="911" alt="1" src="https://github.com/user-attachments/assets/338e78c6-6ed4-4efa-bd1e-b5cf7bbfbc5b" />
+<img width="1905" height="911" alt="2" src="https://github.com/user-attachments/assets/da958076-dc89-4266-b5e2-2bcce80b98b9" />
+<img width="1905" height="911" alt="3" src="https://github.com/user-attachments/assets/d334c040-750c-49b1-be87-fc8165d94f38" />
+<img width="1905" height="911" alt="4" src="https://github.com/user-attachments/assets/8945ed3a-49e0-4762-8266-3530e1b34ff5" />
+<img width="1905" height="911" alt="5" src="https://github.com/user-attachments/assets/cc57f615-cfe3-4495-99ae-5d49542e3a77" />
+<img width="1905" height="911" alt="6" src="https://github.com/user-attachments/assets/4c91e961-d5ce-4e5d-82dc-559bb094c502" />
